@@ -61,8 +61,8 @@ We believe in open-source and providing tools for the community. Here are some o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Promise818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020a18" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promise818&layout=compact&theme=tokyonight&hide_border=true&bg_color=020a18" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeavstalTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020a18" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavstalTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=020a18" alt="Top Languages" />
 </div>
 
 ---
