@@ -26,6 +26,7 @@
 **Core Competencies:**
 *   🤖 **AI & Automation:** Advanced chatbots (WhatsApp/Telegram) and LLM integration.
 *   🛡️ **Security:** Code obfuscation and AI content detection systems.
+*   🔷 **OAuth2 Applications:** Use our secure OAuh2 application and Implement *"Sign In With Heavstal Tech"* to your projects and skip the authentication hustle.
 *   🌐 **Web Infrastructure:** High-performance Next.js applications and SaaS platforms.
 
 ---
