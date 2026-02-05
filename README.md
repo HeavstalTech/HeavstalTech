@@ -51,7 +51,7 @@
 
 ## 🚀 About Us
 
-**Heavstal Tech™** is a modern software powerhouse founded in 2025. We bridge the gap between complex backend logic and sleek frontend interfaces. We specialize in robust automation, AI integration, and enterprise-grade web architecture.
+**Heavstal Tech™** is focused in empowering Developers with Secure, Scalable, Modern Infrastructure while providing cutting-edge developer solutions, offering secure OAuth2 identity management, enterprise-grade NPM modules, zero-knowledge password management, powerful APIs, and automation tools. Designed for reliability and performance, our platform enables teams and individuals to build, deploy, and scale applications with confidence.
 
 **Core Competencies:**
 *   🤖 **AI & Automation:** Advanced chatbots (WhatsApp/Telegram) and LLM integration.
@@ -94,6 +94,13 @@ We believe in open-source and providing tools for the community. Here are some o
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeavstalTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020a18" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavstalTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=020a18" alt="Top Languages" />
+</div>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+tomorrow's+web+today!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
