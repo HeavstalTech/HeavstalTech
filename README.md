@@ -22,7 +22,7 @@
 </div>
 
 <br>
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=HeavstalTech&data=followers,repositories,stars,commits&theme=tokyonight"/>
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=HeavstalTech&data=followers,repositories,stars,commits&theme=dracula"/>
 </div>
 
 ---
