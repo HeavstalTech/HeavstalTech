@@ -115,6 +115,6 @@ Ready to collaborate or need support?
 
 <div align="center">
   <br />
-  <p><i>© 2025 - 2026 HEAVSTAL TECH™ | Building the Future, One Line at a Time.</i></p>
+  <p><i>© 2025 - 2026 HEAVSTAL TECH™ | Building Tomorrow's We, Today!</i></p>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
