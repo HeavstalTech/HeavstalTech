@@ -86,5 +86,5 @@ Ready to collaborate or need support?
 
 <div align="center">
   <br />
-  <p><i>© 2025 HEAVSTAL TECH™ | Building the Future, One Line at a Time.</i></p>
+  <p><i>© 2025 - 2026 HEAVSTAL TECH™ | Building the Future, One Line at a Time.</i></p>
 </div>
