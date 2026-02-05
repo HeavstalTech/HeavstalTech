@@ -2,8 +2,12 @@
   <img src="./HEAVSTAL-TECH-Logo.png" width="200" alt="Heavstal Tech Logo" />
   
   # HEAVSTAL TECH™
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=160&text=Heavstal%20Tech&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Building%20Tomorrow's%20Web,%20Today&descAlignY=75&descSize=20"/>
+</div>
   
-  **Building Tomorrow's Web, Today.**
+
   
   [![Website](https://img.shields.io/badge/Official%20Portal-heavstal--tech.vercel.app-06b6d4?style=for-the-badge&logo=vercel)](https://heavstal-tech.vercel.app)
   [![NPM](https://img.shields.io/badge/NPM%20Registry-@heavstaltech-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/org/heavstaltech)
