@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./HEAVSTAL-TECH-Logo.png" width="200" alt="Heavstal Tech Logo" />
+  <img src="https://heavstal.com.ng/ht_icon.svg" width="120" alt="Heavstal Tech Logo" />
   
   # HEAVSTAL TECH™
 
@@ -9,7 +9,7 @@
   
 
   
-  [![Website](https://img.shields.io/badge/Official%20Portal-heavstal--tech.vercel.app-06b6d4?style=for-the-badge&logo=vercel)](https://heavstal-tech.vercel.app)
+  [![Website](https://img.shields.io/badge/Official%20Portal-heavstal.com.ng-06b6d4?style=for-the-badge&logo=vercel)](https://heavstal.com.ng)
   [![NPM](https://img.shields.io/badge/NPM%20Registry-@heavstaltech-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/org/heavstaltech)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
@@ -49,21 +49,13 @@
 
 ---
 
-## 🚀 About Us
+## About
 
 **Heavstal Tech™** is focused in empowering Developers with Secure, Scalable, Modern Infrastructure while providing cutting-edge developer solutions, offering secure OAuth2 identity management, enterprise-grade NPM modules, zero-knowledge password management, powerful APIs, and automation tools. Designed for reliability and performance, our platform enables teams and individuals to build, deploy, and scale applications with confidence.
 
-**Core Competencies:**
-*   🤖 **AI & Automation:** Advanced chatbots (WhatsApp/Telegram) and LLM integration.
-*   🛡️ **Security:** Code obfuscation and AI content detection systems.
-*   🔷 **OAuth2 Applications:** Use our secure OAuh2 application and Implement *"Sign In With Heavstal Tech"* to your projects and skip the authentication hustle.
-*   🌐 **Web Infrastructure:** High-performance Next.js applications and SaaS platforms.
+## Tech Stack
 
----
-
-## 🛠️ Tech Stack & Arsenal
-
-We utilize cutting-edge technologies to build scalable solutions.
+We utilize SOTA technologies to build scalable solutions.
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -74,18 +66,7 @@ We utilize cutting-edge technologies to build scalable solutions.
 
 ---
 
-## 🔭 Featured Projects & APIs
-
-We believe in open-source and providing tools for the community. Here are some of our flagship systems.
-
-| Project | Description | Live Link |
-| :--- | :--- | :--- |
-| **Heavstal Portal** | The official enterprise dashboard. Features API management, newsroom, and user accounts. | [Visit Portal](https://heavstal-tech.vercel.app) |
-| **HT-Baileys** | 📦 *NPM Module.* An advanced fork of the WhatsApp Web API tailored for enterprise bots and channels. | [View NPM](https://www.npmjs.com/package/@heavstaltech/baileys) |
-| **Heavstal Sentinel** | 🛡️ Forensic AI text analysis tool to detect generated content (ChatGPT/Claude detection). | [Launch Sentinel](https://heavstal-sentinel.vercel.app/) |
-| **CODEX** | 🔐 Enterprise-grade code encryption and obfuscation for JS, Python, and Java. | [Encrypt Code](https://code-xx.vercel.app/) |
-| **Jeden AI** | 🤖 A witty, persona-injectable AI assistant available on Telegram and Web. | [Chat on TG](https://t.me/Heavstal_Jeden_Bot) |
-| **BanBreaker** | ⚖️ Specialized toolkit for resolving WhatsApp account restrictions. | [Restore Access](https://ban-breaker.vercel.app/) |
+| **Heavstal Platform** | The official enterprise dashboard. Features API management, newsroom, and user accounts. | [Visit Portal](https://heavstal.com.ng) |
 
 ---
 
@@ -110,11 +91,11 @@ We believe in open-source and providing tools for the community. Here are some o
 Ready to collaborate or need support?
 
 *   **Email:** [heavstaltech@gmail.com](mailto:heavstaltech@gmail.com)
-*   **Direct Support:** [Telegram](https://t.me/promisemdv1) | [Zangi: 9059974410](https://services.zangi.com/dl/conversation/9059974410)
+*   **Direct Support:** [Telegram](https://t.me/promisemdv1)
 *   **Community:** Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbBcg80KwqSR7dr7do1D) for updates.
 
 <div align="center">
   <br />
-  <p><i>© 2025 - 2026 HEAVSTAL TECH™ | Building Tomorrow's We, Today!</i></p>
+  <p><i>© 2025 - 2026 HEAVSTAL TECH™ | Building Tomorrow's Web, Today!</i></p>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
