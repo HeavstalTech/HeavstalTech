@@ -66,7 +66,7 @@ We utilize SOTA technologies to build scalable solutions.
 
 ---
 
-| **Heavstal Platform** | The official enterprise dashboard. Features API management, newsroom, and user accounts. | [Visit Portal](https://heavstal.com.ng) |
+**Heavstal Tech Dashboard:** [Visit Website](https://heavstal.com.ng)
 
 ---
 
