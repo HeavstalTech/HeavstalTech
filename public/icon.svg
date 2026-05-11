@@ -1,31 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
   <!-- 
-    Timeless, solid blue Tech Sunflower.
-    Bold lines, concentric expanding layers, pure geometric shape.
+    Heavstal Tech: Geometric Sunburst/Sunflower
+    Approach: Concentric layers of FILLED geometric petals.
   -->
-  <g fill="none" stroke="#0665a4" stroke-linecap="round" transform="translate(240, 240)">
-    <defs>
-      <!-- One 3-layered petal cluster -->
-      <g id="petal-cluster">
-        <!-- Ring 1 (Inner Core) -->
-        <path d="M 15,15 Q 50,55 70,0" stroke-width="16" />
-        
-        <!-- Ring 2 (Middle Expanding Layer) -->
-        <path d="M 55,25 Q 100,100 135,-15" stroke-width="28" />
-        
-        <!-- Ring 3 (Outer Bold Sweeps) -->
-        <path d="M 115,35 Q 180,160 210,-35" stroke-width="40" />
-      </g>
-    </defs>
+  <g transform="translate(200, 200)">
     
-    <!-- 8-fold symmetrical rotation for a dense, bold sunflower effect -->
-    <use href="#petal-cluster" transform="rotate(0)" />
-    <use href="#petal-cluster" transform="rotate(45)" />
-    <use href="#petal-cluster" transform="rotate(90)" />
-    <use href="#petal-cluster" transform="rotate(135)" />
-    <use href="#petal-cluster" transform="rotate(180)" />
-    <use href="#petal-cluster" transform="rotate(225)" />
-    <use href="#petal-cluster" transform="rotate(270)" />
-    <use href="#petal-cluster" transform="rotate(315)" />
+    <!-- OUTER LAYER: 12 thinner, spread-out petals for the "sunflower" edge -->
+    <g fill="#0665a4">
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(0)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(30)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(60)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(90)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(120)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(150)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(180)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(210)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(240)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(270)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(300)" />
+      <path d="M 0,0 Q 30,-80 0,-120 Q -30,-80 0,0" transform="rotate(330)" />
+    </g>
+
+    <!-- INNER LAYER: 6 thick, heavy petals for a dense "core" -->
+    <g fill="#0665a4">
+      <path d="M 0,0 Q 50,-50 0,-90 Q -50,-50 0,0" transform="rotate(0)" />
+      <path d="M 0,0 Q 50,-50 0,-90 Q -50,-50 0,0" transform="rotate(60)" />
+      <path d="M 0,0 Q 50,-50 0,-90 Q -50,-50 0,0" transform="rotate(120)" />
+      <path d="M 0,0 Q 50,-50 0,-90 Q -50,-50 0,0" transform="rotate(180)" />
+      <path d="M 0,0 Q 50,-50 0,-90 Q -50,-50 0,0" transform="rotate(240)" />
+      <path d="M 0,0 Q 50,-50 0,-90 Q -50,-50 0,0" transform="rotate(300)" />
+    </g>
+
+    <!-- CENTRAL CORE: A solid circle to tie the whole shape together -->
+    <circle cx="0" cy="0" r="25" fill="#0665a4" />
   </g>
 </svg>
