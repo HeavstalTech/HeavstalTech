@@ -1,39 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
-  <defs>
-    <!-- Vibrant Cyan to Base Blue -->
-    <linearGradient id="gradLeft" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00D2FF" />
-      <stop offset="100%" stop-color="#0665a4" />
-    </linearGradient>
-    
-    <!-- Base Blue to Deep Navy -->
-    <linearGradient id="gradRight" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0665a4" />
-      <stop offset="100%" stop-color="#012b4d" />
-    </linearGradient>
-    
-    <!-- Dynamic Glowing Data Stream (Blue -> Cyan -> Blue) -->
-    <linearGradient id="gradCenter" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0665a4" />
-      <stop offset="50%" stop-color="#00D2FF" />
-      <stop offset="100%" stop-color="#0665a4" />
-    </linearGradient>
-    
-    <!-- 3D Overlapping Shadow to create the folded tech look -->
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-opacity="0.25"/>
-    </filter>
-  </defs>
-
-  <!-- Right Pillar (Back Layer - Bowing Inward) -->
-  <path d="M 300 80 A 200 200 0 0 1 300 320" 
-        fill="none" stroke="url(#gradRight)" stroke-width="45" stroke-linecap="round" />
-
-  <!-- Center Spiral/Infinity Wave (Middle Layer) -->
-  <path d="M 131 260 C 220 380, 180 20, 269 140" 
-        fill="none" stroke="url(#gradCenter)" stroke-width="45" stroke-linecap="round" filter="url(#shadow)" />
-
-  <!-- Left Pillar (Front Layer - Bowing Inward) -->
-  <path d="M 100 80 A 200 200 0 0 0 100 320" 
-        fill="none" stroke="url(#gradLeft)" stroke-width="45" stroke-linecap="round" filter="url(#shadow)" />
-</svg>
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+          <g fill="none" stroke="#0665a4" stroke-width="20" stroke-linecap="round">
+            <path d="M0,60 A 140 140 0 0 1 140,-140" transform="rotate(0 200 200)"/>
+            <path d="M0,60 A 140 140 0 0 1 140,-140" transform="rotate(90 200 200)"/>
+            <path d="M0,60 A 140 140 0 0 1 140,-140" transform="rotate(180 200 200)"/>
+            <path d="M0,60 A 140 140 0 0 1 140,-140" transform="rotate(270 200 200)"/>
+          </g>
+        </svg>
